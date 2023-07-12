@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'themebuilder' );
 
 /** Database username */
-define( 'DB_USER', 'bit_academy' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'bit_academy' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'fjV` #mA[/;_1!X#nXKs#G);-9MWc)Y}BRc$})UHB)I*r75vfttgqz0LcjA=Z;;l' );
-define( 'SECURE_AUTH_KEY',  'eL1ZFp0.xZh|:yzF/(k_4F&oZ{9$M.0`UY1QNE7zITfOmiB#ZSTZ.#Zr?9J;L:Nu' );
-define( 'LOGGED_IN_KEY',    'eGmA!p:o6/lsR{pv5Z[@U3AWEs,8n-$O E_%Y|<[Kn-MR>)eSY!?6bG+PKcIIm(5' );
-define( 'NONCE_KEY',        'PXUk5#|^FxI4%*XYws5E$dcuw;vqJB<kuA_Z_{|(H[B=Nxk v~^PyMrN^#fj_D`,' );
-define( 'AUTH_SALT',        'gY>Y{&z>Xd<+v*P7umiv2GQHbyfg2FkCM4WSlEr+0?RDCudP#GG~s=(`W/4Qq:=H' );
-define( 'SECURE_AUTH_SALT', '|)*hwRv{Rt-T3`T/wof62RX(6x}8ZGp{fz7z]cu-9d/>g={.{#SVY(hoBQew;C*T' );
-define( 'LOGGED_IN_SALT',   'hs^zP-Z2bk^TzAY.9=EP`r!Mpht-tr;ly1g5V8BkuP{DC+=]z+xBD?(}ts]3|Ujy' );
-define( 'NONCE_SALT',       'p~VfZCj+m`3dTo_LKn>?~oii<ZOh-a.QA_br .RK^Ox@il:!i2wj)LAt_q|lQoXT' );
+define( 'AUTH_KEY',         'MOD6[#V5lO9m6{t)p+NXZF<LbW$VL #`!?!nnM/0Sw1q2fWiGZAhzM+>WNfnW?n%' );
+define( 'SECURE_AUTH_KEY',  '|L!WET)8<w]TEzWNC,AHd)[X(selDPm.{{l`!D35W4eYiL#nc_n ;O8BIKO$NUC}' );
+define( 'LOGGED_IN_KEY',    'v2N4kRD7!Ah^Qma9Zt77HSd)/h@58W9jIOef7>}x*K <:N6W;0m!L=Ro$zEFfx#[' );
+define( 'NONCE_KEY',        'a ,E]6yP9ZIb[N05&vAXV&(^Ay?%2.]~X9G9=vOuB]Q1NX-<%uHA-3Iu}=;0X.mY' );
+define( 'AUTH_SALT',        't*|F?i.vt#;11X[Pm3@^%:OJg8~nsi0} +a,(hOz]#8!X<S>_qFe;(LN#)-d$LI0' );
+define( 'SECURE_AUTH_SALT', '#HM)uDitUJK1?h0Q,sZK?^H_o,aS7b6KnfXa?$2n!_`Z:tr@^(3[UX5-M.onE=(B' );
+define( 'LOGGED_IN_SALT',   '.mRO)hg2qp$MSB?}r74.T8Z+{(tNPyE0k?Dp]AkMT09WD@M}i5jb)YwmCI%^V3g0' );
+define( 'NONCE_SALT',       ':oFKS!LI|,|*q%qRw9M*U/s <y0fE{1he:[MouN]o_V:]q16VccQh&).BR^|AQq|' );
 
 /**#@-*/
 
